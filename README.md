@@ -1,5 +1,3 @@
-# AlleeCabral_profile
-
 ### <div align="center">I'm Alex, a Junior data Scientist with rich background, currently looking for an opportunity to be a valuable asset</div>  
   
 
